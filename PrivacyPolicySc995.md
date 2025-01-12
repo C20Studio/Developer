@@ -1,4 +1,4 @@
-= Scientific Calculator 995 Privacy Policy
+# Scientific Calculator 995 Privacy Policy
 
 関数電卓sc-995は如何なるデータも収集しません。
 
